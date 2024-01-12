@@ -9,7 +9,7 @@ public class App {
 	}
         
         public void printDataName(){
-    		System.out.println("method addedd toprint the data a new method added");
+    		System.out.println("method addedd toprint the data a new method added added loggers");
     	}
 	public void addData(String data) {
 		System.out.println("git demo project");
